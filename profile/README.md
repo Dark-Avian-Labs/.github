@@ -10,10 +10,10 @@ Core platform and shared foundation for Dark Avian Labs applications.
 ### Auth
 Authentication and account services for secure identity, access, and session workflows.
 
-### Corpus
+### Codex
 Data and content backbone used to organize, process, and serve structured application information.
 
-### Parametric
+### Armory
 An advanced build-planning experience with rich UI and data integration for deep configuration workflows.
 
 ## What We Value
