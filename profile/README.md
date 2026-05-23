@@ -4,14 +4,17 @@ Building focused tools and services for creative, data-driven development.
 
 ## Projects
 
-### AppBase
-Core platform and shared foundation for Dark Avian Labs applications.
-
 ### Codex
 Data and content backbone used to organize, process, and serve structured application information.
 
 ### Armory
 An advanced build-planning experience with rich UI and data integration for deep configuration workflows.
+
+### TC-Bot
+Discord Bot for the game "Ark of War" that provides calculations and times for ingame events.
+
+### Poltergeist
+Ghostwriter and PhraseExpress alternative that supports translations and feature rich snippet management.
 
 ## What We Value
 
