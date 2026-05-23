@@ -7,9 +7,6 @@ Building focused tools and services for creative, data-driven development.
 ### AppBase
 Core platform and shared foundation for Dark Avian Labs applications.
 
-### Auth
-Authentication and account services for secure identity, access, and session workflows.
-
 ### Codex
 Data and content backbone used to organize, process, and serve structured application information.
 
