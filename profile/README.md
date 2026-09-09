@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dark-Avian-Labs/.github/refs/heads/main/banner.png" alt="Dark Avian Labs">
+</p>
+
 # Dark Avian Labs
 
 Tools we reach for ourselves. Warframe loadouts and collection trackers. Watcher of Realms gear. A Discord bot for Ark of War. A Windows snippet manager, a homelab diagram editor, a household budget you can share.
