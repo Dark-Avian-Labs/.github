@@ -4,15 +4,15 @@
 
 # Dark Avian Labs
 
-Tools we reach for ourselves. Warframe loadouts and collection trackers. Watcher of Realms gear. A Discord bot for Ark of War. A Windows snippet manager, a homelab diagram editor, a household budget you can share.
+Tools we actually open. Warframe loadouts and collection trackers. Watcher of Realms gear. A Discord bot for Ark of War. A Windows snippet manager, a homelab diagram editor, a household budget you can share with the people who pay the bills.
 
-Hosted apps sign in with [Clerk](https://clerk.com). Desktop and local tools stay off the server. Source is on GitHub.
+Some of that runs on the web. The rest stays on a desktop or a box we host ourselves. Source is on GitHub.
 
 ## Projects
 
 ### [Codex](https://codex.darkavianlabs.com)
 
-Collection tracker for Warframe, Epic Seven, and Watcher of Realms. Tables and worksheets per game, not a generic form. Warframe catalog data syncs from Armory.
+Collection tracker for Warframe, Epic Seven, and Watcher of Realms. Each game gets its own tables instead of one generic form. Warframe items sync from Armory.
 
 ### [Armory](https://armory.darkavianlabs.com)
 
@@ -20,11 +20,11 @@ Warframe mod builder and item catalog. Helminth, Archon shards, Incarnon, named 
 
 ### [Outfitter](https://outfitter.darkavianlabs.com)
 
-Watcher of Realms gear inventory and loadout optimizer. Mythic pieces, one loadout per hero, search the stash for sets that hit stat floors. Hero catalog and combat stats come from Codex.
+Watcher of Realms stash and loadout search. Mythic pieces, one outfit per hero, hunt for sets that hit the floors you care about. Hero names come from Codex.
 
 ### [TC-Bot](https://github.com/Dark-Avian-Labs/TC-Bot)
 
-Discord bot for Ark of War, built for Diplomacy of War. Slash commands for healing, gear, and iTS. Mopup timing posted into channels.
+Discord bot for Ark of War, built for Diplomacy of War. Healing, gear, and iTS from the theorycrafters' sheet. Mopup timing posted into channels.
 
 ### [Poltergeist](https://github.com/Dark-Avian-Labs/Poltergeist)
 
@@ -40,7 +40,7 @@ Shared household budget for recurring expenses, income, and credits. Invite by e
 
 ### AerieDrive
 
-Portable dev-environment sync for gitignored config and an age-encrypted vault. In development. Not public yet.
+Portable sync for gitignored config and an age-encrypted vault. Still in development. Not public yet.
 
 ## What we value
 
@@ -53,5 +53,4 @@ Portable dev-environment sync for gitignored config and an age-encrypted vault. 
 
 - TypeScript on the web, Rust on the Windows desktop
 - React, Vite, and Tailwind for the hosted apps
-- Clerk for sign-in on Codex, Armory, Outfitter, and BudgetPlanner
 - GitHub for source, GitHub Actions for validate and deploy
